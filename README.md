@@ -1,0 +1,1 @@
+In this progect I needed to make fix a page that opened in he browser that allowed the user to writes notes. When save the notes will appear on the left hand side. When he user clicks the note on the left side it will pop up on the right side of the page. To make this I had to conect the server and db so the notes had object permanence
